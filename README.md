@@ -12,7 +12,7 @@ Mettre en place une communication entre deux réseaux différents à l'aide d'un
 - 1 switch
 - 1 routeur
 
-![Topologie](topologie-routage-deux-reseaux.png)
+![Topologie](Topologie-routage-deux-reseaux.png)
 
 ---
 
@@ -74,5 +74,5 @@ La communication entre les deux réseaux est fonctionnelle.
 ## 📁 Fichiers
 
 - lab-routage-deux-reseaux.pkt
-- topologie-routage-deux-reseaux.png
+- Topologie-routage-deux-reseaux.png
 - test-ping-reussi.png
